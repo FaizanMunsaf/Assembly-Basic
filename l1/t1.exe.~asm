@@ -1,0 +1,9 @@
+.model small
+.stack 100h
+.data
+main proc
+MOV AX, 0110b
+
+main endp
+
+

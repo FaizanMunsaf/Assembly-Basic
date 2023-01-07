@@ -1,0 +1,17 @@
+org 100h
+mov ax,'B'
+mov ax,42h
+mov ax,42
+mov ax,42d
+mov ax,01000010b
+mov ax,123Ah
+mov ax,0FE44h
+
+
+ret
+
+
+
+
+
+
